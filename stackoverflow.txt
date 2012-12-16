@@ -1,0 +1,5 @@
+
+how to find if the interger is a square root or not 
+http://stackoverflow.com/questions/295579/fastest-way-to-determine-if-an-integers-square-root-is-an-integer?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+hnycombinator+%28HN+-+hnycombinator%29
+
+
